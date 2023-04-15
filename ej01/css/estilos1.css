@@ -1,0 +1,27 @@
+*{
+    text-align: justify;
+}
+#header{
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+}
+h1{
+    padding-left: 24px;
+}
+.link{
+    padding-right: 24px;
+}
+.lk{
+    text-decoration: none;
+}
+.fila{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.fila img{
+    width: 280px;
+    height: 200px;
+}
